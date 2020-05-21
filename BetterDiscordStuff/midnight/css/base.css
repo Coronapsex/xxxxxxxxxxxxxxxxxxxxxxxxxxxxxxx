@@ -300,8 +300,8 @@ TABLE OF CONTENTS
 	--streaming:var(--twitch-purple);
 
 	/*Branding*/
-	--theme-name: 'Trumps UI';
-	--theme-version: 'v5.2';
+	--theme-name: 'Midnight UI';
+	--theme-version: '3.2.2';
 
 	/*Discord Vars*/
 	--deprecated-store-bg: var(--lv1);	
@@ -348,8 +348,8 @@ TABLE OF CONTENTS
 /*More Compatibility Variables*/
 .appMount-3lHmkl,
 .theme-dark {
-	--primary-color: rgba(0.55, 0, 0, 0.75);
-	--secondary-color: rgba(186, 0, 0, 0);
+	--primary-color: rgba(182, 0, 0, 0.75);
+	--secondary-color: rgba(182, 0, 0, 0.6);
 	--tertiary-color: rgba(0, 0, 0, 0.4);
 	--quaternary-color: rgba(0, 0, 0, 0.7)
 }
